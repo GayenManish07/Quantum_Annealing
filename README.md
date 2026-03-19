@@ -36,8 +36,3 @@ For 11 cities:
 - **Quantum Annealing:** Near-optimal (~7.5s)  
  Shows a strong **speed vs optimality trade-off**
 
----
-
-## Installation
-```bash
-pip install openjij
